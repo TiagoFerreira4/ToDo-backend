@@ -84,4 +84,4 @@ Este projeto é open-source, sinta-se à vontade para usar e contribuir!
 
 ## 🔗 Frontend
 
-Acesse também o [repositório do frontend](https://github.com/SEU_USUARIO/ToDo-frontend) dessa aplicação.
+Acesse também o [repositório do frontend](https://github.com/TiagoFerreira4/ToDo-frontend) dessa aplicação.
