@@ -22,7 +22,7 @@ Backend da aplicação To-Do List, parte da stack MERN (MongoDB, Express, React,
 
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/SEU_USUARIO/ToDo-backend.git
+    git clone https://github.com/TiagoFerreira4/ToDo-backend.git
     cd ToDo-backend
     ```
 
