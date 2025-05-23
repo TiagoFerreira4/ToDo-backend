@@ -21,7 +21,7 @@ mongoose.connect(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopol
   .then(() => console.log('MongoDB conectado'))
   .catch(err => console.error(err));
 
-// Rotas vão aqui
+// Rotas 
 
 const PORT = process.env.PORT || 5000;
 app.use('/api/auth', authRoutes);
